@@ -1,0 +1,3 @@
+D:\Unreal Projects\Lesser Key of Samuel\LesserKeyOfSamuel\Source\LesserKeyOfSamuel\LesserKeyOfSamuel.Build.cs
+D:\Unreal Projects\Lesser Key of Samuel\LesserKeyOfSamuel\Source\LesserKeyOfSamuel.Target.cs
+D:\Unreal Projects\Lesser Key of Samuel\LesserKeyOfSamuel\Source\LesserKeyOfSamuelEditor.Target.cs

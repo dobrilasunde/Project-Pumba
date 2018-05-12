@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\LesserKeyOfSamuel.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{89CF6B74-E285-4EFB-9DA3-ECAA8B3FC67C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\LesserKeyOfSamuel.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\LesserKeyOfSamuelEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{4B090AEC-9641-4C71-AF57-63FC456FA6A6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\LesserKeyOfSamuel">
+			<UniqueIdentifier>{FFC3C6E3-954A-4658-A67B-35B61AA3FF96}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\LesserKeyOfSamuel\LesserKeyOfSamuel.Build.cs">
+			<Filter>Source\LesserKeyOfSamuel</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\LesserKeyOfSamuel\LesserKeyOfSamuel.cpp">
+			<Filter>Source\LesserKeyOfSamuel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LesserKeyOfSamuel\LesserKeyOfSamuel.h">
+			<Filter>Source\LesserKeyOfSamuel</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LesserKeyOfSamuel\LesserKeyOfSamuelCharacter.cpp">
+			<Filter>Source\LesserKeyOfSamuel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LesserKeyOfSamuel\LesserKeyOfSamuelCharacter.h">
+			<Filter>Source\LesserKeyOfSamuel</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LesserKeyOfSamuel\LesserKeyOfSamuelGameMode.cpp">
+			<Filter>Source\LesserKeyOfSamuel</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LesserKeyOfSamuel\LesserKeyOfSamuelGameMode.h">
+			<Filter>Source\LesserKeyOfSamuel</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
